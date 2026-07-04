@@ -1,1 +1,1 @@
-# AgriLite-A-Lightweight-Multi-Crop-Disease-Detector-Across-Diverse-Conditions
+# Parameter_Efficient_Deep_Learning_and_Class_Selective_Knowledge_Distillation_for_Precision_Agriculture 
