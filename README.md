@@ -1,1 +1,4 @@
 # Parameter_Efficient_Deep_Learning_and_Class_Selective_Knowledge_Distillation_for_Precision_Agriculture 
+## Problem Statement
+
+Plant diseases significantly reduce crop yield and quality, making early and accurate detection essential for sustainable agriculture. Although deep learning models have achieved high accuracy on controlled datasets, they often fail to generalize to real-world field conditions due to variations in lighting, background complexity, occlusions, and environmental noise. Furthermore, many state-of-the-art models require substantial computational resources, limiting their deployment on resource-constrained edge devices such as smartphones, drones, and IoT systems. This project addresses these challenges by developing a lightweight and robust plant disease detection framework that improves cross-dataset generalization while enabling efficient real-time deployment on edge devices.
